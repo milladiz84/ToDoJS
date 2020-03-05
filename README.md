@@ -1,2 +1,0 @@
-# ToDoJS
-Created with CodeSandbox
